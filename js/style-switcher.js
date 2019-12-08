@@ -25,5 +25,9 @@ jQuery(document).ready(function($) {
 			$("#style-switch").attr("href", "css/presets/preset6.css" );
 			return false;
 		});
+		$("#preset7" ).click(function(){
+			$("#style-switch").attr("href", "css/presets/preset7.css" );
+			return false;
+		});
 
 });

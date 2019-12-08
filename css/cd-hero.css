@@ -1,4 +1,5 @@
 
+
 /* -------------------------------- 
 
 Slider
@@ -70,7 +71,7 @@ Slider
       height: 400px;
    }
    .cd-hero-slider h2 {
-     font-size: 2em !important;
+     font-size: 1.5em !important;
    }
    .cd-hero-slider h3, .cd-hero-slider p{
       display: none;
